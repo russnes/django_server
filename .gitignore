@@ -1,0 +1,11 @@
+.idea/
+env/
+backend/backend/__pycache__/
+backend/api/__pycache__/
+*__pycache__/
+*.swp
+static/
+db.sqlite3
+
+
+
